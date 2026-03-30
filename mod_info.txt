@@ -1,6 +1,6 @@
 jar_name=Instant-Hoppers-1.0.jar
-requested_jar_path=To Be Decompiled/auto-create-modrinth/20260330-111713-b1a2782e/Instant-Hoppers-1.0.jar
-resolved_jar_path=To Be Decompiled/auto-create-modrinth/20260330-111713-b1a2782e/Instant-Hoppers-1.0.jar
+requested_jar_path=To Be Decompiled/auto-create-modrinth/20260330-115040-f207888d/Instant-Hoppers-1.0.jar
+resolved_jar_path=To Be Decompiled/auto-create-modrinth/20260330-115040-f207888d/Instant-Hoppers-1.0.jar
 loader=forge
 loader_detail=fml
 metadata_source=mcmod.info
