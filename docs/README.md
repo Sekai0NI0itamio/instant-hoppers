@@ -6,6 +6,12 @@ The mod does not add new blocks, items, or recipes. It works in any world where 
 
 No commands are required; the change happens automatically in the background.
 
----
+## Quick Facts
 
-This github repository is auto created using itamio's Mod Compiler repository workflow.
+
+
+- Summary: Hate that hoppers move items too slowly? This mod speeds them up, automatically finishing the bulk transfer when the vanilla cooldown reaches 8.
+
+- Loader: `forge`
+
+- Supported Minecraft versions: `1.12.2`
