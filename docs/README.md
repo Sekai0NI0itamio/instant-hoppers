@@ -1,16 +1,16 @@
 # Instant-Hoppers
 
-Instant Hoppers speeds up how quickly hoppers move items into adjacent containers.
+Instant Hoppers.
 
-The mod does not add new blocks, items, or recipes. It works in any world where it is loaded and runs on the server side, so it affects all players in that world.
+## What It Does
 
-No commands are required; the change happens automatically in the background.
+- ...
 
 ## Quick Facts
 
 
 
-- Summary: Hate that hoppers move items too slowly? This mod speeds them up, automatically finishing the bulk transfer when the vanilla cooldown reaches 8.
+- Summary: Hate that hoppers move items too slowly? Well this mod makes hoppers move items faster automatically.
 
 - Loader: `forge`
 

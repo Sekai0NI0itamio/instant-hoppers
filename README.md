@@ -1,10 +1,10 @@
 # Instant-Hoppers
 
-Instant Hoppers speeds up how quickly hoppers move items into adjacent containers.
+Instant Hoppers.
 
-The mod does not add new blocks, items, or recipes. It works in any world where it is loaded and runs on the server side, so it affects all players in that world.
+## What It Does
 
-No commands are required; the change happens automatically in the background.
+- ...
 
 ---
 
